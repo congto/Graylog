@@ -7,8 +7,7 @@ apt-get -qq update
 apt-get -y install git curl build-essential openjdk-7-jre pwgen wget ssh ntp
 
 #install Desktop environment
-
-apt-get -y install gnome-desktop-environment
+# apt-get -y install gnome-desktop-environment
 
 #download files
 
