@@ -56,8 +56,8 @@ while ! nc -vz localhost 27017; do sleep 1; done
 
 echo "Downloading Files"
 
-wget http://packages.graylog2.org/releases/graylog2-server/graylog2-server-0.92.3.tgz
-wget http://packages.graylog2.org/releases/graylog2-web-interface/graylog2-web-interface-0.92.3.tgz
+wget http://packages.graylog2.org/releases/graylog2-server/graylog2-server-0.92.4.tgz
+wget http://packages.graylog2.org/releases/graylog2-web-interface/graylog2-web-interface-0.92.4.tgz
 
 #Extract 
 
